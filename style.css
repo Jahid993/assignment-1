@@ -2,23 +2,38 @@ body {
     font-family: 'Inter', sans-serif;
     font-family: 'Poppins', sans-serif;
 }
-
 .donate-box {
 display: flex;
+margin: 100px;
+padding: 10px;
 }
 .food-set{
-background-color: rgba(79, 157, 166, .1);
+    background-color: rgba(79, 157, 166, .1);
+    margin: 20px;
+    padding: 10px;
+    width: 200%;
 }
-
 .shelter-set{
     background-color:rgba(255, 89, 89,.1);
+    margin: 20px;
+    padding: 10px;
+    width: 200%;
 }
 .education-set {
     background-color: #FFF4D6;
-
+    margin: 20px;
+    padding: 10px;
+    width: 200%;
 }
-
-
+.food-set-2{
+    margin: 5% 2% 5% 2%;
+    padding: 2%;
+}
+.donate-font{
+    text-align: justify;
+    margin: 10% 2% 10% 2%;
+    padding: 2%;
+}
 .start-title {
     text-align: center;
     color: white;
