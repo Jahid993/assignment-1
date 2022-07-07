@@ -30,9 +30,9 @@ body {
 .link-font h2 {
     font-family: inherit;
     font-size: 45px;
-
-
-
+}
+.survive {
+    display: flex;
 }
 .survive-image{
     width: 130%;
