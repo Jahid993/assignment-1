@@ -3,13 +3,22 @@ body {
     font-family: 'Poppins', sans-serif;
 }
 
+.donate-box {
+display: flex;
+}
 .food-set{
-background-color: rgba(79, 157, 166, .6);
+background-color: rgba(79, 157, 166, .1);
 }
 
 .shelter-set{
-    background-color: #4F9DA6;
+    background-color:rgba(255, 89, 89,.1);
 }
+.education-set {
+    background-color: #FFF4D6;
+
+}
+
+
 .start-title {
     text-align: center;
     color: white;
