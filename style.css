@@ -110,24 +110,23 @@ padding: 10px;
 
 .lives {
     display: flex;
-    margin: 100px;
-    padding: 10px;
+    margin: 2% 5% 5% 5%;
+    
 }
 
 .lives-image { 
-    margin: 2% 10% 0% 0%;
+    margin: 2% 20% 0% 0%;
     width: 70%;
     height: 80%;
-    padding: 10%
+    padding: 5%
 }
 
 .lives-font {
     margin: 2% 10% 2% 0%;
-    padding: 2%;
+    padding: 5%;
     text-align: justify;
     width: 80%;
-   
-    
+    height: 50%;
 }
 
 .link-font h2 {
@@ -136,15 +135,15 @@ padding: 10px;
 }
 .survive {
     display: flex;
-    margin: 100px;
-    padding: 10px;
+    margin: 8% 2% 10% 5%;
+    padding: 5px;
 }
 
 .survive-image{
-    width: 130%;
-    height: 80%;
-    margin: 10%;
-    padding: 20%;
+    width: 70%;
+    height: 90%;
+    margin: 8% 0% 2% 0%;
+    padding: 2%;
 }
 .survive-link-color {
     background-color: #FF5959;
@@ -155,7 +154,12 @@ padding: 10px;
     font-weight: 700;
 }
 .survive-font{
-    margin: 5% 10% 10% 20%;
+    margin: 0% 2% 0% 0%;
+    width: 70%;
+    height: 80%;
+    padding: 2%;
+    text-align: justify;
+
 }
 .survive-font h2 {
     font-family: inherit;
