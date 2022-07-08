@@ -111,7 +111,6 @@ padding: 10px;
 .lives {
     display: flex;
     margin: 2% 5% 5% 5%;
-    
 }
 
 .lives-image { 
@@ -135,14 +134,13 @@ padding: 10px;
 }
 .survive {
     display: flex;
-    margin: 8% 2% 10% 5%;
-    padding: 5px;
+    margin: 2% 5% 5% 3%;
+    
 }
-
 .survive-image{
-    width: 70%;
+    width: 60%;
     height: 90%;
-    margin: 8% 0% 2% 0%;
+    margin: 2% 10% 2% 10%;
     padding: 2%;
 }
 .survive-link-color {
@@ -155,9 +153,9 @@ padding: 10px;
 }
 .survive-font{
     margin: 0% 2% 0% 0%;
-    width: 70%;
-    height: 80%;
-    padding: 2%;
+    width: 40%;
+    height: 50%;
+    padding: 2% 10% 2% 2%;
     text-align: justify;
 
 }
