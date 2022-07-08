@@ -18,8 +18,12 @@ body {
     font-size: 18px;
   }
 
+  .donate-centre-set{
+    margin: 2% 20% 10% 45%;
+    width: 60%;
+  }
   .centre-set{
-    margin: 50px;
+    
     padding: 15px;
     background-color: #FF5959;
     text-decoration: none;
