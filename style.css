@@ -14,7 +14,7 @@ body {
 }
 
 .start-title h1 {
-    font-family:;
+    font-size: 40px;
 
 }
 
@@ -115,13 +115,18 @@ padding: 10px;
 }
 
 .lives-image { 
-    margin: 20%;
+    margin: 2% 10% 0% 0%;
     width: 70%;
     height: 80%;
     padding: 10%
 }
 
 .lives-font {
+    margin: 2% 10% 2% 0%;
+    padding: 2%;
+    text-align: justify;
+    width: 80%;
+   
     
 }
 
