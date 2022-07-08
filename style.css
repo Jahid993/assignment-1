@@ -57,10 +57,13 @@ body {
     width: 100%;
     border: none;
 }
-::-webkit-input-placeholder {
-    text-align: center;
-    font-size: 18px;
-  }
+
+
+    ::-webkit-input-placeholder{
+        text-align: center;
+        font-size: 18px;
+}
+
 
   .donate-centre-set{
     margin: 2% 20% 10% 45%;
