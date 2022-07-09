@@ -14,6 +14,11 @@
     font-family: "roboto";
     src: url(font/roboto/Roboto-Medium.ttf);
 }
+
+@font-face {
+    font-family: "lobster";
+    src: url(font/lobster/Lobster-Regular.ttf);
+}
 .start-title {
     text-align: center;
     color: white;
@@ -307,7 +312,8 @@ button{
 }
 #footer-text{
     color: #FF5959;
-    
+    font-family: 'Lobster', cursive ;
+    font-size: 36px;
 }
 .footer-font {
 text-align: center;
