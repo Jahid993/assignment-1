@@ -323,6 +323,13 @@ padding: 2%;
 .footer-margin {
     padding: 2%;
 }
+
+@font-face {
+    font-family: "manrope";
+    src: url(font/manrope/Manrope-VariableFont_wght.ttf);
+}
 #footer-last {
     color: white;
+    font-family: "manrope";
+    font-size: 14px;
 }
